@@ -1,0 +1,9 @@
+Date: Feb 26, 2025
+
+	Today after Internship class at work I learned new things about git. Especially dealing with merge conflicts, rebasing and handling merge request comments. After I pushed my code in git it ended up with merge conflicts. So I spend my time to learn how to solve these merge conflicts. The merge conflicts occurred because the branch I pushed is not up to date with the main branch.
+	I learned that to avoid merge conflicts, I should always pull the latest changes from the main branch before pushing my code and creating a merge request. If I still end up with conflicts, I could manually choose which changes to keep and then merge them properly. After that, I need to commit these new changes again before pushing my code in my branch.
+	I also learned about rebase. Rebasing help in merging by automatically merging incoming changes with existing changes. It makes decision on its own. This sometime causes issues. So I learned that it's better to turn off the rebasing. I learned a new command to turn off the rebase 'git config pull.rebase false'. This command tells git to use the normal merge method when pulling changes instead of rebasing. So, I can have more control over my merges and reduce the chances of merge conflicts.
+	Another useful thing I learned today was how to see comments in a git merge request and fix them properly. When I pushed my code in git my reviewer can review the code and add comments to change the code. These comments helps me to understand what I can do to improve the code. I learned how to check comments and make the changes it suggests. 
+	After making the changes, I need to commit the changes and push them again to the same branch. But before I push them I should always pull from the main branch. The merge request now has my new changes too.
+	
+	
