@@ -1,5 +1,6 @@
 Date: Feb,27,2025
 
+
 Today I learned a lot of things new things like proposition, terminal, interfaces. First I learned about propositions. Proposition is a statement that can either be true or false. It does not depends on opinions or emotions and depends on logic. In computers, they are related to boolean logic. Boolean logic uses true or false values to execute conditions. Proposition can be the combination of two or more statements. Combination of proposition statement uses 'and', 'or'. In programming these are used to make decisions to execute a specific part of the code. A fact is a statement that is always true. Since proposition is a statement that is either true or false, a fact is a true proposition. Because facts do not change.
 
 	
