@@ -1,0 +1,38 @@
+Today I learned about the importance of being a good team player. Being a team player is more than just working well with others. It also about collaborating, sharing ideas, improving productivity and helping out other team mates. A true team player has all the following three traits. They are Humble, Hungry and Smart. These qualities work together to create a good team player. 
+
+	I learned about the three H's. The first is Humble. People having this quality tends to be the one's who follows the orders given to them without any question. They care about their peers. They are like pawns in chess which just follows the orders. They are invisible and they avoid being in the centre of attention.
+
+	The next H is Hungry. Hungry people are people who are always ready to learn more. A hungry person is always eager to learn, grow, and do more. They always focus on how to grow and always explore new opportunities to grow. As they always focus on their own growth, they sometimes fail to consider their team mates or peers. Hence, hungry people can become bulldozers.
+
+	The third is smart people. Smart people are the one's who knows how to talk to other people and read the room. They are very good at making new connections and friends. They are easy to talk too. And they always have this positive vibe about them. These people can sometimes be manipulative and have their way by charming others by their talking skills. 
+
+	Next I learned about the combination of these kind of people. Humble + Hungry, Hungry + Smart and Humble + smart.
+
+	Humble + Hungry - A person who is humble and hungry but not smart is hardworking and has an interest to grow. But these people lack emotional intelligence. They lack communication skills and fail to communicate with the other people in their team. They do their part of work good but the lack of communication with other team mates may lead to accidental trouble. They sometimes mess up without realising it. They may sometimes hurt other teammates unknowingly. They often cause misunderstandings and bring trouble.
+
+	Humble + Smart - A person who is humble and smart but not hungry is kind and easy to talk but they lack the drive to grow. They can communicate well with other team mates and are kind to others. But they don't take initiative to learn new things. They prefer to do what they are doing right then. They don't improve their skills and don't take up new challenges. These just exist in the group. They are not up for changes.
+
+	Hungry + Smart - A person who is hungry and smart but not humble has the need to grow in work and learn new things. They chase new opportunities and are vey good at talking to other people. These guys only think about themselves and do not think about their team mates. They sometimes manipulate their team mates to their advantage. These people sometimes even destroy the team spirit and team.
+
+	A good team player has all the three qualities humble, hungry and smart. A good team player should be kind and has the drive to learn new things and also they should be capable of communicate with the team mates to avoid conflicts.
+
+	Next I learned about intention. Being intention means doing something with a purpose. Many people performs tasks without thinking much about them. They don't think about "why am I doing this ?". When we approach a task with intention our contributions are meaningful. Our brain also needs time to cool down. Different people have different things they want to do to cool their brain. When we cool down with intention we allow our minds to truly reset. The things we do daily without much thought may feel different when we do it with an intention. Intention transforms a normal action into something more. When done with purpose these things became something meaningful rather than just another thing we do.
+
+	I also learned about Git, the history of git and why we use git. Git was created in 2005 by Linus who developed linux. Linus wanted to develop an open source version control system so he along with other developers build a tool that is Git. Git is used because git can help developers to keep track of what they are doing. It also allows developers to collaborate with other developers. Developers can also create another branch and starts working on another new feature. 
+
+	Some of the main git commands are as follows - 
+
+	git init - initialises a new git repository in the local
+	git add . - add all the files to be committed.
+	git commit -m "message" - commits the changes
+	git status - shows the current status of the files in the repo
+	git log - shows commit history
+	git branch branch_name - create branch
+	git remote add origin rep_name - to connect a local repo to a remote repository
+	git checkout branch_name - switches to another branch
+	git pull - updates local repo with the latest changes
+	git push - pushes the commit to the remote repository
+
+
+	A git visual tree represents the commit history of the project. It shows at what point a new branch is created a new commit is made and a new branch is mereged to the main branch. This helps us to see and track the new branches and commit history.
+	
