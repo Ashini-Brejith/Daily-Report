@@ -1,0 +1,19 @@
+Date: Mar,07,2025
+
+Programming languages tells a machine or computer what to do. Unlike humans computers cannot understand human languages. Instead they rely on programming languages that follow rules. When a code get executed a lot of other things are happening in the background. The three key processes involves are the tokenization, Syntax analysis and semantic analysis. These steps help computers to break down the code written in high level programming languages. 
+
+Tokenization
+
+Tokenization is the first step in processing the code. It involves breaking the code into tokens. Tokens are a collection of symbols. In English tokens are like words that are meaningful. In tokenization the computer scans through the entire code and breaks the code into small parts. It divides them into identifier, opertator, values, punctuations and so on. Tokenization also helps the computer to find the syntax errors. Without tokenization programming languages would struggle to differentiate between words, numbers, and symbols, leading to errors.
+
+
+Syntax Analysis 
+
+Syntax analysis is performed next after tokenisation. During syntax analysis the computer parse the code and checks whether the code follows the rules. It checks if the structure of the code is correct, If it is incorrect an error is thrown. In syntax analysis the parser parse code and looks for any missing punctuations, incorrect use of any operator other than missing any symbols that are needed for the language.
+
+Semantic Analysis
+
+Semantic analysis is checking the meaning of the code. Even if the code is syntactically correct, it may be semantically wrong. That is they do not make any sense. During semantic analysis the computer ensures that the code written by the human makes sense. If any error are found in this stage the computer would throw a semantic error.
+
+After all the three steps tokenization, syntax analysis and semantic analysis, the high level human understandable language is converted into machine readable machine language. That is it is converted into binary code, 0's and 1's. The compiler is responsible for converting the high level programming language to machine language. The compiler interprets the human language and turns it into appropriate machine language. 
+

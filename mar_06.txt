@@ -6,3 +6,34 @@ Algorithms are step by step instructions or set of rules given to a computer to 
 
 In the class we wrote the algorithm for rearranging the books in a shelf based on the genre. To arrange the books based on the genre. we must tell the computer what to do from the scratch since computers are dumb. To arrange the books the we should tell the computer to take a book from the shelf and find its genre. Then place the book in an empty shelf. Then we should ask the computer to take the next book and find the genre of the book. If the genre of the first book and the second book is same the computer should place the second book in the shelf where the first book is. If the genre is different the computer will place the book in another shelf. The will repeat these steps until no more books are there to be pace. That is all the books are place in there respective shelves.
  
+
+Programming language are a medium to communicate with the computers They allow humans to communicate with computers, create software and applications. Programming languages translate human readable instructions into a form that computers can understand and execute.
+
+Computers only understand one language and that is the machine language. This language is called the binary code. This language consists of only 1's and 0's. Hence writing code in binary is very difficult. If there is bug in the code it is very very difficult to resolve the bug. Hence humans developed assembly language and then later developed high level languages like javascript, python , C, C++. 
+
+Binary Language
+
+Binary is the language that the computers understand. This code consists of two numbers 0's and 1's. The computer understand the difference between these numbers with the variation in the voltage. The computer understand that the number being passed as 1 when 5v is passed. When no voltage is passed the computer understands it as 0. In olden days programmers sed to write code in binary which is very difficult. The process of debugging is also tedious. Hence the developed the next level language called assembly language.
+
+Assembly language
+
+Assembly language is a low level programming language that uses short readable codes, It is better than binary code. It is a bit more human friendly than binary code. Assembly language is human friendly because it has keywords representing certain tasks.
+
+High level languages
+
+To overcome the difficulties in assembly languages, high level languages are designed. High level languages are human friendly and is easy to read, write and understand. They allow developers to write instructions in a form similar to human language, using words and symbols instead of raw machine instructions. Some of the high level languages are python, C, C++, Javascript, Java.
+
+All programming languages follows a set of rules called syntax which defines how the programming language should be written. The meaning behind the rules are called semantics.
+
+A high level programming language is translated to computer understandable machine language by the intermediator called compiler. The compiler translates high level languages to machine understandable code.
+
+A high level languages has the following three things.
+
+Symbols
+Symbols are individual characters a language can have. In English symbols are numbers, special characters and alphabets.
+
+Tokens
+Tokens are collection of one or more symbols. They forms a word.
+
+Expressions
+Expressions are collection of tokens. The validity of the expressions depends on the syntax and semantics.
