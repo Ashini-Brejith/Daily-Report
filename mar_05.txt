@@ -1,0 +1,12 @@
+Date: Mar,05,2025
+
+Computers are dumb. Computers can only be able to communicate through machine language. Machine language or binary language are number 0 and 1. Hence computers communicate by 0's and 1's. This is also called binary code. Binary code is the foundation of computer operations. Binary code is used to store, process and transfer information inside a computer. 
+
+The binary numbers 0 and 1 respond to different electrical signals. The number 0 represents no voltage, which is 0 voltage. The number 1 is represented by 5 v which is voltage present. Every action the computer performs whether running code or applications, displaying images is converted into 0's and 1's. The input we give to the computer is also converted to 0's and 1's. That is the binary code. 
+
+The computer gets the input and process it in the memory and then give the output. The input is entered into a computer system through input devices like keyboard, mouse, microphone, touchscreen. After receiving the input the data needs to be stored before it can be processed. Memory stores the data in the central processing unit. The central processing unit is responsible for executing instructions based on the input received. The input is processed in the central processing unit. Next the computer displays the output in human readable format. The output is displayed to humans using output devices like printers, displays, printers and more.
+
+Algorithms
+
+Algorithms are step-by-step instructions that tell a computer what to do. An algorithm is a set of rules or a steps that a computer follows to solve a problem. Every thing a computer can do is based on an algorithm. It is a step by step procedure for solving a problem or performing a task.
+An algorithm works by taking in an input through input devices, process the input correctly using the central processing unit and then displays the out to the humans in human readable format.
