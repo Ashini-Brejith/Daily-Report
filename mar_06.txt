@@ -1,0 +1,8 @@
+Date: Mar,06,2025
+
+Algorithms
+
+Algorithms are step by step instructions or set of rules given to a computer to perform a certain task or to solve a problem. Computer use algorithms to perform calculations, make decisions and process information. In our every day life, we use algorithms to solve real world problems without even knowing about it. We do it unconsciously. Without algorithms a computer can not know what to do. So we define an algorithm that tells the computer what to do to solve a problem or complete a task.
+
+In the class we wrote the algorithm for rearranging the books in a shelf based on the genre. To arrange the books based on the genre. we must tell the computer what to do from the scratch since computers are dumb. To arrange the books the we should tell the computer to take a book from the shelf and find its genre. Then place the book in an empty shelf. Then we should ask the computer to take the next book and find the genre of the book. If the genre of the first book and the second book is same the computer should place the second book in the shelf where the first book is. If the genre is different the computer will place the book in another shelf. The will repeat these steps until no more books are there to be pace. That is all the books are place in there respective shelves.
+ 
