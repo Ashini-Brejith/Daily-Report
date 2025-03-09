@@ -1,0 +1,42 @@
+Date: Mar,04,2025
+
+
+Today I learned more about the implications, bi-conditional statements. Also we explored about the types three types of problems namely, problems which have no solutions, problems which have multiple solutions and problems solved by trial and error. I also learned about Eulerian cycle, Hamiltonian cycle. 
+
+I learned about many new things in logic and problem solving. An implication is a statement that has a form “If P happens, then Q happens”. This means that if the first statement (P) is true, then the second statement (Q) must also be true. And if P is false and Q is false or true, the whole statement is true. Then I learned about bi-conditional statements. A bi-conditional statement is when both directions of implication are true. That is P implies Q and Q implies P. It is written ad P if and only if Q. In other words, if P happens if Q happens and Q happens if P happens. 
+
+The next is the types of problems. Problems can be categorised into three types:  
+
+Problems with no solution
+
+These are problems which cannot be solved no matter how much we tried to solve it. They simply do not have a solution at all.
+
+Problems with Multiple Solutions
+
+Some problems does not have only one solutions but many solutions such problems are called problems with multiple solutions. We can able to solve this problem in many different ways. They are many possible ways to solve this problems. 
+
+
+Problems Solved by Trial and Error
+
+These are problems where the solution is not known unless we tried different methods until we find the correct one. We just have to try different methods to come up with the solution.
+
+Next I learned a little bit about Eulerian cycle and Hamiltonian cycle. 
+
+Eulerian Cycle
+
+An Eulerian cycle is a path in a graph that visits every edge exactly once and returns to the starting point. A graph is said to have Eulerian cycle if every vertex has an even number of connections.
+
+Hamiltonian Cycle
+
+A Hamiltonian cycle is a cycle that visits every vertex exactly once and returns to the starting point. Hamiltonian cycle do not need to visit every edge.
+
+
+
+
+
+
+
+
+
+
+
