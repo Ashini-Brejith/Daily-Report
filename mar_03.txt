@@ -1,0 +1,35 @@
+Date: 03.03.2025
+
+Today I learned about lot of things like implications, conjunction, disjunction, logical negation. I also learned about what are conditionals and bi-conditional statements. we often use these things in making decisions.
+
+Conjunction
+
+Conjunction is when two statements are linked together by using the word 'and'. The two statements must be true to make the whole statement true. The two statements must be either true or false, for the statement to be true.
+The mathematical representation of a conjunction statement is p ^ q, where p and q are variables.
+
+Disjunction
+
+Disjunction is when two options are present in a sentence. At least one part of the whole statement needs to be true. The two statements are connected using 'or'. The 'or' is represented as 'v'.
+The mathematical representation of a disjunction statement is p v q, where p and q are the variables representing the statements.
+
+Logical Negation
+
+Negation is just the reverse of the statement, turning it from true to false or false to true. If the statement is true it changes the statement to false. If the statement is false it changes it to true. Negation is represented using the symbol ~
+The mathematical representation of the statement is ~p, where p is the statement.
+
+Implications
+
+Implication is the idea that if one thing happens, then another thing will follow. It’s the whole “if this happens, then that will follow” kind of thinking. They are also called conditional statements. The mathematical representation of implication is p -> q. P and q are statements.
+
+Bi-Conditional statements
+
+Bi-conditional statements are used to express that two conditions are completely linked. They either both happen or neither happens. The two statements must be either true or false for the whole statement to be true. The mathematical representation of bi-conditional statement is p <-> q.
+
+
+
+
+
+	
+
+ 
+
