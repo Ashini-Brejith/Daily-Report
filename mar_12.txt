@@ -1,0 +1,13 @@
+Date: Mar,12,2025
+
+Today I worked on displaying the billing plans of the partners in merchant management system. I created a function that updates the value of the current tab and displays the contents of the tab. When the user clicks a billing plan only the details of that plan is displayed. The details of the first plan is displayed by default. 
+
+I learned the importance of checking if a data exists before using the data. Sometimes in the responses there may be no data or no data for a specific value. If that data is not found there will be an error. So it is important to check if the is available in the backend before moving on to use the data or display the data. If one data is not available, the entire page would not function as it is supposed to be. So when an error is thrown because of undefined  billing plan Id, I checked if the partner has valid billing plan before moving on to display the billing plans for that partner. I used a if condition to check where that particular partner has billing plans and if they have billing plans only then I tried to access the billing plan.
+
+Next thing I learned is the importance of showing a valid error message when no data is found. Since I have not handled what to display if a partner has no available billing plans. The billing plan page of partner keeps on loading without showing any data. This is wrong. So we should always handle what to show or display when an expected data is not found or fetched. I made an else block to handle this to show an error message.
+
+I explored about debounceTime in angular. I learned that debounce time is the time set to delay or give a gap from the last input to the current time. Generally it is used to avoid unnecessary api calls or performing an operation repeatedly. I also learned hoe debounce time works. When the user gives an input instead of executing the logic defined the debounce time wait for a few milli seconds which is already defined. After this defined time the logic gets executed. This avoids unnecessary api calls or repeated operations.
+The search function used a debounceTime of 1000. It caused a delay in showing the search results. If the item to be searched is copy pasted, it did not show any results. So reducing the debounceTime helped in displaying the results. 
+
+
+Next I moved on display the product catalogues for a partner. Every partner contains a product catalogue. Product catalogues are the terminals the partners have with them or have ordered. I also read through the responses of the endpoint that provides the product catalogue of a partner.
