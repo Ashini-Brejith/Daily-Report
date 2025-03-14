@@ -1,0 +1,101 @@
+Date: Mar,13,2025
+ 
+Data can be pretty much anything that can be stored and processed by a computer. Data is information that can be processed, analysed, and used by computers or people. It is of many forms, such as numbers, text, images that gets transformed into knowledge.
+In programming, data is what the software and application works with to perform operations and make decisions. So data is just information that is stored and used by the computer to perform the defined functions.
+
+In a programming language we have symbols, tokens and expressions. 
+
+Symbols
+
+
+A symbol is basically any character that have a specific meaning in a programming language. These include things like operators, punctuation marks.
+
+Operators: 
+These are symbols that perform operations on variables and values. For example, + is an operator used to add two numbers, - is for subtraction, * is for multiplication, and / is for division. The above operators are called arithmetic operators. There are also other mathematical operators like <,>,=.
+
+Punctuations:
+Punctuation symbols are characters used in writing to separate or organise text. In the context of programming languages, punctuation symbols serve a similar purpose, they help to organise the code and structure of a program. In English, punctuation like full stop, commas, exclamatory and question marks are used to show the meaning of sentences and express the tone of the message. In the same way, in programming language, punctuation symbols help separate, group, or terminate certain parts of the code.
+Some of the punctuation symbols in programming are semicolon :, parenthesis (), curly braces {}, square brackets [], angle brackets <>, quotation marks '' " ", colon ;, etc.
+
+
+Tokens
+
+A token is the smallest unit of meaningful data in programming. It can be thought of as a "building block" of code that the compiler recognise. Tokens are made up of symbols but carry specific meaning in the program. A program breaks down code into tokens to understand its meaning and actions.
+
+Identifiers: 
+These are names you give to variables, functions, or objects. For example, x, name, and sum are all identifiers.
+
+Literals:
+These are tokens that represent actual values in the code. For instance, 5, true, or "Hello, World!" are literal tokens. These are the data the program works with, such as numbers, boolean values, or strings.
+
+In compilation, the first step of the compiler or interpreter is to break down your code into tokens. This process is known as lexical analysis or tokenization. Once your code is broken down into tokens, it’s easier for the program to understand the structure and perform operations based on them.
+
+
+Expressions
+
+An expression is any combination of tokens (variables, operators, value) that can be evaluated to produce a result. A mathematical formula or a statement that calculates something is an expression. In fact, every line of code that produces a value is an expression. For instance a + b = 10; is a valid expression.
+
+So, Symbols represent the characters used in code, tokens are the smallest meaningful units that the computer can process, and expressions are combinations of tokens that are evaluated to produce results.
+
+
+Data
+
+In programming data is any values or pieces of information that a program can store, modify, or retrieve during its execution. Group or collection of data is called Database. In database huge about of data are stored, retrieved and manipulated. Every data has a type. In programming there are two main types, they are primitive data type and complex data type. 
+
+Primitive Data Type
+
+They are “primitive” because they’re not made up of other data types and can’t be broken down into smaller components. Some of the examples of primitive data type are integers, strings, boolean, characters.
+
+Integer
+Integers are whole numbers. They can be positive, negative, or zero. For example, 5, -42, and 100 are all integers. Integers don’t have decimal points. They’re often used when you need to count things, track a score, or deal with any kind of whole number.
+
+
+String
+Strings are sequences of characters. Basically, they’re just text. For example, “Hello, World!” or “123 Main Street” are strings. In most programming languages, strings are enclosed in quotation marks.
+
+Boolean
+A boolean is a data type that can only have one of two values: true or false. Boolean data type is mostly used in making decisions in a program.
+
+Characters
+Characters are individual letters, digits, symbols, or any other single character. For instance, the letter ‘A’, the number ‘3’, or the punctuation mark ‘#’ are all characters. In programming, characters are usually wrapped in single quotes.
+
+Complex Data Types
+
+Complex data types can store and manage larger amounts of data, and they allow us to group related data together. Some of the common complex data types include, arrays, lists, objects.
+
+Arrays
+An array is a collection of values, all of the same data type. For example, [15, 42, 67, 91]. Arrays are useful when you want to store a list of things, and you can access each item by its position in the list, also known as its index.
+
+Lists
+Lists are similar to arrays, but in many programming languages (like Python), they can store different types of data together. For example, a list could contain an integer, a string, and a boolean value.
+
+Objects
+Objects can store both data (attributes) and functions (methods) that operate on that data. For example, a “Car” class might have attributes like colour and model, and methods like startEngine() or stopEngine().
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
