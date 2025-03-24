@@ -1,0 +1,17 @@
+Date: Mar,24,2025
+
+Today at work, I learned about how to break words after a specific symbol or character. I have a div which contains a set of strings. These strings are basically one word string. They words are separated by underscore. Hence I cannot use break words to break the string to next line if the string length exceeds the div width. Also when used break-all in tailwind then the string breaks in random areas. It doesn't look nice and also it is difficult to read. So, I planned to break the odds after the underscore. 
+
+To break the words after the underscore, I used a function to format the dynamic value. Adding a space after the underscore ad using break-words may help in breaking the string to the next line when the length of the string exceeds the width of the div. This method solved the problem and the string breaks to the next line when it exceeds the width. But I faced a problem, since I added space after underscore to break it next line. The space is applied to the whole string. Which results in difference in the actual response and the data printed in the page. 
+
+Then I sought a way to solve this problem and learned a new thing today. I learned a new character '\u200B'. \u2000 is the unicode zero-width space (zwsp) character. It is an invisible character that doesn't take up any space but can be useful in this situation. 
+
+I also learned that \u2000 is commonly used in preventing text from breaking, used as invisible separators and fixing formatting issues in code or ui.
+
+I then explored about the uses of \u2000. One of the primary use of \u2000 is to prevent text from breaking in unwanted places. By inserting \u2000, developers can ensure spacing remains consistent without allowing unintended line breaks.
+
+Another use of \u2000 is as an invisible separator. When normal space does not achieve the style needed we can use \u2000.
+
+We can also use \u2000 to fi formatting issues in code or ui layouts. In javascript, using \u200 can help in preventing shifting of text in dynamic elements.
+
+So I used the \u2000 to remove the space added next to the underscore after I formatted it to break the string. It worked and the space added next to the underscore is zero width space, that is invisible space. 
