@@ -1,0 +1,33 @@
+Date: Mar,20,2025
+
+Today I learned that updating data works differently depending on the type of data being used. Whether working with numbers, strings and arrays. The process of updating values varies based on how data is stored.
+
+Numbers are often stored in variables, and modifying them means performing an operation like addition, subtraction, or assignment. For example if a variable holds a numeric value and I need to update it the computer doesn’t actually change the original number but instead creates a new value and assigns it back to the variable.
+
+where numbers are stored in data types like list, arrays, updating them may require modifying a specific index or property rather than directly changing a variable. I learned that when updating a string, instead of modifying the original value, a new string is created. This means that every time a string is updated whether by joining, replacing characters, or modifying the existing string. The COMPUTER generates a completely new string and assigns it to a variable.
+
+I learned that updating values in an array works. Arrays are a fundamental data structure that store multiple values in a single variable, making it easy to access and modify elements. Updating an array can involve changing an existing element, adding new elements, or even removing values.
+
+Updating Array Elements
+
+The most common way to update an array is by modifying an existing element at a specific index. Since arrays store elements in a continuous block of memory, accessing an element by its index is fast. When I need to update a value in an array, I can simply assign a new value to the desired index. For example, if an array holds a list of numbers, I can change one of the values by referring to its index and setting it to a new number. 
+
+I learned that updating an element in an array is a simple process where we just access the specific index and assign a new value. We can directly modify an element without affecting the rest of the array or changing its memory address. Hence this is different from other data types like strings and numbers, which often create a new copy instead of modifying the original value.
+
+Example: scores = [12,13,14,15,15]
+
+socres[4] = 16
+
+This will update the value of the 4th index 15 to 16. Here, I updated the value at index 4 from 15 to 16. Even though the value changed, the memory address of the array itself remains the same. So the final output will be scores = [12,13,14,15,16]. When accessing an index value we mention it inside square brackets. Also the index value starts from 0. Even if the value changes from 15 to 16 the address of the array element remains unchanged. So when updating the array elements it directly update the address itself unlike in other data types like strings and numbers.
+
+Updating an element at a specific index does not change the memory address of the array. Since the array’s memory is already allocated, modifying a value inside it simply replaces the data at that particular location without affecting the structure of the array itself. For example, if an integer in an array is stored at a specific memory address, changing a value at an index won’t affect the address of the array , it only changes the value stored at that index.
+
+
+
+
+
+
+
+
+
+
