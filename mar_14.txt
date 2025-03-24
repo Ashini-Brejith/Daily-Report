@@ -1,0 +1,43 @@
+Date: Mar,14,2025
+
+Today i learned about functions in programming. A function is basically a block of reusable code that is designed to do a specific task. Once a faction is written we can call it anytime we need to perform that particular task over and over. We don't have to write the code for that specific task task again we can just call the function. Thus functions helps in minimising the lines of code.
+
+Functions
+
+The basic structure of a function can be divided into three main parts: the function name, the parameters, and the body. The function name is what we use to call the function. The parameters are the inputs the functions needs in order to work. The body contains the instructions to perform a task.
+
+A normal syntax for the function is as follows:
+
+Function function name(parameters){
+
+//function body
+
+
+}
+
+A function accepts parameters and arguments as there input in order to performa task. Parameters are variable that are listed inside the parentheses. If the function accepts variables like a, b as these inputs then those are called parameters. If the accepts actual values like 5,'Ashini', they are called arguments. So parameters are variables passed to a function and arguments are actual values passed on to a function.
+
+
+I also learned how a function may or may not return a value. In some cases, a function just completes a task and doesn’t need to send any result back. This is very useful when we need a function to do something but don't require any output from it. In such case we use a function defined with the void keyword. Which is just indicating that the function doesn't return a value or anything. The void keyword tells the program that the function doesn't need to return a value and not to expect a return value.
+
+Functions can also return values. In this case the function performs a task and sends a result back to the point where it was called. Functions that return values are very useful when we need the result of the operation to be used later in the program. The returned values can be use in multiple places in the program. 
+
+
+Typed and Untyped Languages
+
+Today I also learned a bit about typed and untyped languages. Programming languages are of two different types typed language and untyped language. 
+
+Typed Language 
+
+Typed languages require developers to explicitly define the data type of variables, meaning the system knows exactly what kind of data it’s dealing with. This helps prevent errors and ensures that operations are performed on matching types. One of the biggest advantages of typed languages is that they catch many errors early, sometimes even before the program runs. Since the type of each variable is known already, the system can detect mismatches and prevent potential issues before they cause error. Debugging is also easier in typed languages because errors related to data types are caught before they are executed. This is very useful in large projects where tracking bugs is difficult. Since the computer knows what types of data are being used in the program, it can allocate memory and execute operations faster. I also explored about the programming languages that are typed. Some examples of typed languages include Java, C, C++, C#, Rust, Go, Swift, Kotlin, and TypeScript. These languages require type definitions for variables, to ensure that the computer knows exactly what kind of data type is being used.
+
+Untyped language
+
+I learned that untyped languages are programming languages that don’t enforce strict rules about data types. In these languages, variables can hold any type of data without needing an explicit type declaration. This gives us a lot of freedom since we don’t have to worry about defining types before using them. Unlike typed languages, which check for type mismatches before or during execution, untyped languages don’t perform type checking at all. This means errors related to data types might only show up when the program is already running. One of the biggest advantages of untyped languages is flexibility. Since there are no strict rules on what type of data a variable can hold, we can switch between different values as needed.
+
+
+
+
+
+ 
+
